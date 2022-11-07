@@ -1,0 +1,14 @@
+teams = {
+  "devops_team" = {
+    description = "equipo de prueba teams devops_team"
+    members     = ["davila97", "maikol1995"]
+  }
+  "devops_front_team" = {
+    description = "equipo de prueba teams devops_team"
+    members     = ["davila97", "maikol1995"]
+  }
+  "devops__backend_team" = {
+    description = "equipo de prueba teams devops_team"
+    members     = ["davila97", "maikol1995"]
+  }
+}
